@@ -1,9 +1,9 @@
 node_modules/*
-package-lock.json/
-metro.config.js/
-babel.config.js/
-app.test.js/
-.gitignore/
-.DS_Store/
+package-lock.json
+metro.config.js
+babel.config.js
+app.test.js
+.gitignore
+.DS_Store
 android/app/build/*
 android/.gradle/*
