@@ -1,4 +1,4 @@
-#Fri Sep 27 15:00:03 IST 2019
-base.0=/Users/balanagammal_murugan/Documents/React Sample/NativeSample/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue Oct 01 12:45:09 IST 2019
+base.0=/Users/balanagammal_murugan/Documents/React Sample/react-native-login-screen-design/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

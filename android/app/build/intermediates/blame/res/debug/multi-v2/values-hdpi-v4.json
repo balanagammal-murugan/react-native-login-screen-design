@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/balanagammal_murugan/Documents/React Sample/NativeSample/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/Users/balanagammal_murugan/Documents/React Sample/react-native-login-screen-design/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "/Users/balanagammal_murugan/.gradle/caches/transforms-2/files-2.1/d4039d505fd950c9adae56fb6fa9ffb3/res/values-hdpi-v4/values-hdpi-v4.xml",
